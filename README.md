@@ -33,3 +33,7 @@ This is a simple TODO app developed using [React Native](https://reactnative.dev
    
  ![image](https://github.com/user-attachments/assets/dca3b262-f578-4080-b7ee-e8a49f8cb3a9)
  </details>
+
+## Socials:
+- [LinkedIn](https://www.linkedin.com/in/jfmartinz/)
+- [Twitter](https://x.com/jfmartinz)
